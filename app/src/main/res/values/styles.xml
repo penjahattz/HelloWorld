@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<!-- Basic Theme -->
+    <style name="AppTheme" parent="Base.AppTheme">
+	</style>
+	
+	<!-- Parent Theme -->
+	<style name="Base.AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+		<!-- Color primary is color default ActionBar -->
+		<item name="colorPrimary">@color/colorPrimary</item>
+		<item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+	</style>
+	
+</resources>

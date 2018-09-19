@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- Create a color value here -->
+	<color name="colorPrimary">#1796A6</color>
+	<color name="colorPrimaryDark">#058695</color>
+	
+</resources>
